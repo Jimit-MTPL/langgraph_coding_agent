@@ -1,6 +1,6 @@
-## This code is not developed by me.
+# This code is not developed by me.
 
-# Langgraph: Tutorial and Implementation with Dynamic Agent
+## Langgraph: Tutorial and Implementation with Dynamic Agent
 
 This repository contains tutorials and an implementation using a dynamic agent named LangGraph. Below are instructions for setting up a conda environment and running the provided code.
 
